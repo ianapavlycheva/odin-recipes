@@ -1,11 +1,3 @@
-Project: Recipes
+# odin-recipes
 
-Objective
-
-The objective of this project is to develop a webpage featuring three distinct recipes. Each recipe will have a dedicated link from the homepage and include the following elements:
-
-    •	Title
-    •	Photo
-    •	Brief description
-    •	Unordered list of ingredients
-    •	Ordered list of steps
+The goal of this project is to build a webpage featuring three unique recipes. Each recipe will be accessible via its own link from the homepage and should include the following elements: a title, a photo, a brief description, an unordered list of ingredients, and an ordered list of steps. Atomic commits are required when committing to Git throughout the development process.
